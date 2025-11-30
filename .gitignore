@@ -1,0 +1,17 @@
+# macOS 系统文件
+.DS_Store
+
+# Vim / 编辑器临时文件
+*.swp
+*.swo
+*.tmp
+
+# 日志文件
+*.log
+
+# Python 虚拟环境（如果以后写脚本）
+venv/
+__pycache__/
+
+# Linux 系统可能生成的临时文件
+*~
